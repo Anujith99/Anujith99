@@ -5,9 +5,9 @@
 <p>I've always been fascinated by animation and visual effects. I was curious as to how these magnificent visuals were created and would spend hours online watching behind the scenes videos to learn the different techniques which are used. Combining this love of visual content, my interest in problem solving, and guidance from some mentors, I began my foray into Frontend Development and haven't looked back since.</p> 
 <p>To escape tutorial hell, I started to build projects with the little knowledge that I had. I started with a small website called Cryptonite and during that process, I found that I was learning and understanding concepts faster than before. After the completion of that project, I made it a mission to continously work on projects and take my career to another level. My GitHub profile is a collection of my learnings, a timeline of my developer journey and if you wish to join me on this journey then you can follow my profile.</p>
 
-<!-- - 👨‍💻 All of my projects are available at [Portfolio link](Portfolio link) -->
+- 👨‍💻 All of my projects are available at [https://dev-anujith-beerakayala.netlify.app/](https://dev-anujith-beerakayala.netlify.app/)
 
-<!-- - 📫 How to reach me **anujith.b.dev@gmail.com** -->
+- 📫 How to reach me **anujith.b.dev@gmail.com**
 
 <!-- - 📄 Know about my experiences [Resume](Resume) -->
 
