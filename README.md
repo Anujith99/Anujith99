@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anujith Beerakayala</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Frontend/Full Stack Developer</h3>
 
 <h3>About Me</h3>
 <p>I've always been fascinated by animation and visual effects. I was curious as to how these magnificent visuals were created and would spend hours online watching behind the scenes videos to learn the different techniques which are used. Combining this love of visual content, my interest in problem solving, and guidance from some mentors, I began my foray into Frontend Development and haven't looked back since.</p> 
